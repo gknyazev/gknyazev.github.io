@@ -1,0 +1,31 @@
+body {
+	background-color: #f0f0f0;
+}
+h1 {
+  
+}
+p {
+  color: red;
+}
+
+.text-large {
+  font-size: 1200%;
+}
+
+.text-blue {
+	color: #1dadd1;
+}
+
+.text-orange {
+	color: #e2522e
+}
+
+.text-grey {
+	letter-spacing: 25px;
+	color: #cdcdcd;
+}
+
+.text-furigana {
+	letter-spacing: 110px;
+	color: #cdcdcd;
+}
