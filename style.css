@@ -4,12 +4,9 @@ body {
 h1 {
   
 }
+
 p {
   color: red;
-}
-
-.text-large {
-  font-size: 300%;
 }
 
 .text-blue {
@@ -21,11 +18,49 @@ p {
 }
 
 .text-grey {
-	letter-spacing: 10px;
 	color: #cdcdcd;
 }
 
 .text-furigana {
-	letter-spacing:70px;
 	color: #cdcdcd;
+	letter-spacing:15px;
+}
+
+.text-large {
+  	font-size: 400%;
+}
+
+@media (min-width: 768px){ 
+     .text-large {
+  	font-size: 1000%;
+     }
+
+     .text-grey {
+	font-size: 120%;
+	letter-spacing: 8px;
+      }
+
+     .text-furigana {
+	font-size: 120%;
+	letter-spacing:40px;
+      }
+
+}
+
+ 
+@media (min-width: 1200px) { 
+     .text-large {
+  	font-size: 1500%;
+     }
+
+     .text-grey {
+	font-size: 150%;
+	letter-spacing: 15px;
+      }
+
+     .text-furigana {
+	font-size: 150%;
+	letter-spacing:70px;
+      }
+
 }
