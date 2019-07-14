@@ -9,7 +9,7 @@ p {
 }
 
 .text-large {
-  font-size: 1200%;
+  font-size: 800%;
 }
 
 .text-blue {
@@ -21,11 +21,11 @@ p {
 }
 
 .text-grey {
-	letter-spacing: 25px;
+	letter-spacing: 15px;
 	color: #cdcdcd;
 }
 
 .text-furigana {
-	letter-spacing: 110px;
+	letter-spacing:90px;
 	color: #cdcdcd;
 }
