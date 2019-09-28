@@ -104,7 +104,7 @@ p {
 
 .mainheader {
 	height: 100vh;
-	background:  url(kaede25.png);
+	background:  url(kaede-background.jpg);
 	background-position: right 20% bottom 45%;
 	background-repeat: no-repeat;
 	background-attachment: scroll;
@@ -208,7 +208,7 @@ background: linear-gradient(180deg, rgba(198,112,0,1) 0%, rgba(140,42,0,1) 100%)
       }
 
 	.mainheader {
-	background: url(kaede25.png);
+	background: url(kaede-background.jpg);
 	height: 100vh;
 	background-position: center;
 	background-repeat: no-repeat;
