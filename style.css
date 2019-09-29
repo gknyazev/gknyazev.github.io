@@ -202,10 +202,6 @@ background: linear-gradient(0deg, rgba(255,246,244,1) 0%, rgba(255,253,241,1) 10
 
 
 @media (min-width: 520px){ 
-}
-
-
-@media (min-width: 995px){ 
      .text-large {
   	font-size: 12vw;
      }
@@ -224,6 +220,11 @@ background: linear-gradient(0deg, rgba(255,246,244,1) 0%, rgba(255,253,241,1) 10
 	font-size: 1.5vw;
 	letter-spacing:4.5vw;
     }
+}
+
+
+@media (min-width: 995px){ 
+
 	.mainheader {
 	background: url(kaede-background.jpg);
 	height: 100vh;
