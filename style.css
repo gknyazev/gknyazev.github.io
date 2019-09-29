@@ -177,8 +177,8 @@ background: linear-gradient(180deg, rgba(198,112,0,1) 0%, rgba(140,42,0,1) 100%)
 
 .others-section {
     min-height: 95vh;
-    background: rgb(168,0,142);
-	background: linear-gradient(180deg, rgba(168,0,142,1) 0%, rgba(84,0,43,1) 100%);
+background: rgb(255,246,244);
+background: linear-gradient(0deg, rgba(255,246,244,1) 0%, rgba(255,253,241,1) 100%);
 }
 
 .site-text {
