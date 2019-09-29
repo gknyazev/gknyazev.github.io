@@ -21,7 +21,8 @@ p {
 }
 
 .text-grey {
-	font-size: 60%;
+	font-size: 90%;
+	letter-spacing: 8px;
 	color: #FFF3EB;
 	opacity: 1;
 	text-shadow:0px 0px 2px #FFF3EB, 0px 0px 5px #003561, 0px 0px 10px #003561;
@@ -197,8 +198,8 @@ background: linear-gradient(0deg, rgba(255,246,244,1) 0%, rgba(255,253,241,1) 10
      }
 
      .text-grey {
-	font-size: 100%;
-	letter-spacing: 8px;
+	font-size: 110%;
+	letter-spacing: 13px;
 
       }
 
